@@ -1,0 +1,18 @@
+{
+  "name": "project-settings",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdelight/project-settings.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jdelight/project-settings/issues"
+  },
+  "homepage": "https://github.com/jdelight/project-settings#readme"
+}
