@@ -3,4 +3,7 @@
 cp -r ~/dev/vizia-fallback-cache/.idea vizia-fallback-cache/
 
 
-git add . ; git commit -m"sync"; npm version patch ; git push --tags
+git add .
+git commit -m"sync"
+npm version patch 
+git push --tags
